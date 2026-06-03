@@ -1,3 +1,5 @@
+//Author Parneet kaur
+// Version June 2026
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
