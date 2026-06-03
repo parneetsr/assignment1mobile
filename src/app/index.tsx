@@ -1,3 +1,5 @@
+//Author: Parneet kaur
+// version june 2026
 import { useState } from "react";
 import {
   ScrollView,
