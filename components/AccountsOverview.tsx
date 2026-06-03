@@ -1,3 +1,5 @@
+//Author Parneet kaur
+// Version June 2026
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
 export default function AccountsOverview() {
