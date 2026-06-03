@@ -1,3 +1,5 @@
+//Author Parneet kaur
+// Version June 2026
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
 interface RbcBottomNavProps {
@@ -5,7 +7,7 @@ interface RbcBottomNavProps {
 }
 
 export default function RbcBottomNav({ onAlertPress }: RbcBottomNavProps) {
-  const notificationCount = 1; // 🔥 change this number anytime
+  const notificationCount = 0; 
 
   return (
     <View style={styles.navBarWrapper}>
